@@ -1,0 +1,48 @@
+# Compiled executables
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Static and shared libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug symbols
+*.dSYM/
+*.pdb
+
+# Core dump files
+core
+core.*
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.layout
+*.depend
+
+# Dev-C++
+*.dev
+
+# CLion / IntelliJ
+.idea/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
